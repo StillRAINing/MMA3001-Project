@@ -1,8 +1,6 @@
 # MMA3001-Project
 This is a project used for MMA3001; it is private and for personal use only
 ----------------------------------------------------------------------------------------------------------------------------------------
-AI Acknowledgement Statement (for your README)
-markdown
 ## 🤖 AI Acknowledgement
 
 In accordance with Monash University's guidelines on the responsible use of Artificial 

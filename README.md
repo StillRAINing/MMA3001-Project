@@ -1,9 +1,6 @@
 # MMA3001-Project
 This is a project used for MMA3001; it is private and for personal use only
-
-
-Here's a ready-to-use AI Acknowledgement section, formatted for your README, following the "What / How / Oversight" structure from Notebook 1.4 and Monash's acknowledgement guidance.
-
+----------------------------------------------------------------------------------------------------------------------------------------
 AI Acknowledgement Statement (for your README)
 markdown
 ## 🤖 AI Acknowledgement
